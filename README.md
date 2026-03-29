@@ -1,4 +1,4 @@
-![Scryer](/scryer.jpg)
+
 
 &nbsp;
 ### 🙊 Deploy your own `VPN`
